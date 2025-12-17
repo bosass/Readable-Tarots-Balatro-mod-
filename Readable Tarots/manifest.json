@@ -5,8 +5,11 @@
   "description": "easier to understand at a glance tarots",
   "prefix": "sas",
   "main_file": "main.lua",
+  "badge_colour": "AC3232",
+  "badge_text_colour": "FFFFFF",
   "version": "1.0.0",
   "dependencies": [
     "malverk (>=1.1.3)"
   ]
+
 }
