@@ -1,0 +1,14 @@
+{
+  "id": "readable_tarots",
+  "name": "Readable Tarots",
+  "author": ["sas"],
+  "description": "easier to understand at a glance tarots",
+  "prefix": "sas",
+  "main_file": "main.lua",
+  "badge_colour": "AC3232",
+  "badge_text_colour": "FFFFFF",
+  "version": "1.1",
+  "dependencies": [
+    "malverk (>=1.1.3)"
+  ]
+}
