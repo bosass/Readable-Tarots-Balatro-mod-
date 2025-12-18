@@ -4,7 +4,7 @@
 --- PREFIX: sas
 --- MOD_AUTHOR: [sas]
 --- MOD_DESCRIPTION: Easier to understand at a glance tarots
---- VERSION: 1.0.0
+--- VERSION: 1.1
 --- DEPENDENCIES: [malverk]
 
 AltTexture({
