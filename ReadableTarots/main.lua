@@ -1,10 +1,10 @@
 --- STEAMODDED HEADER
---- MOD_NAME: Readable Tarots
+--- MOD_NAME: At a glance - Readable Tarots
 --- MOD_ID: readable_tarots
 --- PREFIX: sas
 --- MOD_AUTHOR: [sas]
 --- MOD_DESCRIPTION: Easier to understand at a glance tarots
---- VERSION: 1.1
+--- VERSION: 1.2
 --- DEPENDENCIES: [malverk]
 
 AltTexture({
